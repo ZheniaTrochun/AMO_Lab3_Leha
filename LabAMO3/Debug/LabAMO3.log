@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+MyForm.cpp(41): warning C4101: e: неиспользованная локальная переменная
+  MyForm1.cpp
+MyForm1.cpp(30): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  LabAMO3.vcxproj -> C:\Users\Наталія\Documents\Visual Studio 2015\Projects\LabAMO3\Debug\LabAMO3.exe
